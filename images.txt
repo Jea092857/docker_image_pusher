@@ -1,9 +1,1 @@
-mysql:8.4.0-oraclelinux9
-node:lts-alpine3.20
-golang:1.23rc1
-zookeeper:3.8
-rabbitmq:3.12-management-alpine
-elasticsearch:8.13.0
-nacos/nacos-server:v1.4.7
-ubuntu:oracular-20240527
-mongo:nanoserver-ltsc2022
+mysql:latest
